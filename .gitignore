@@ -1,0 +1,27 @@
+# Altium Generated
+History/
+__Previews/
+Project Outputs*
+Project Outputs for *
+
+# Preview / Structure
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure
+
+# Backup / Autosave
+*.bak
+*.AutoSave
+*.SchDoc~
+*.PcbDoc~
+
+# CAM Outputs
+*.zip
+*.rar
+*.gbr
+*.drl
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
